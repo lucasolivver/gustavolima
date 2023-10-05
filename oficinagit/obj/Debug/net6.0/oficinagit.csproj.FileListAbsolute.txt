@@ -1,0 +1,15 @@
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\bin\Debug\net6.0\oficinagit.exe
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\bin\Debug\net6.0\oficinagit.deps.json
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\bin\Debug\net6.0\oficinagit.runtimeconfig.json
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\bin\Debug\net6.0\oficinagit.dll
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\bin\Debug\net6.0\oficinagit.pdb
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.csproj.AssemblyReference.cache
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.AssemblyInfoInputs.cache
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.AssemblyInfo.cs
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.csproj.CoreCompileInputs.cache
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.dll
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\refint\oficinagit.dll
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.pdb
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\oficinagit.genruntimeconfig.cache
+C:\Users\tec.jipa\source\repos\oficinagit\oficinagit\obj\Debug\net6.0\ref\oficinagit.dll
